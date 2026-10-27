@@ -1,0 +1,4 @@
+module libdeflate {
+    header "../libdeflate/libdeflate.h"
+    export *
+}
